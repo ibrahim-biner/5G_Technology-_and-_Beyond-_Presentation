@@ -6,3 +6,10 @@
 #### [Presentation PDF](https://github.com/ibrahim-biner/5G_Technology-_and-_Beyond-_Presentation/blob/main/5G%20Teknolojisi%20Teknoloji%20Sunum%20(1).pptx) <br>
 #### [Poster PDF](https://github.com/ibrahim-biner/5G_Technology-_and-_Beyond-_Presentation/blob/main/5G%20Teknolojisi%20Poster%20(54.9%20%C3%97%2084.1%20cm)%20(1).pdf)
 
+
+##### POSTER : 
+
+
+![Poser](https://github.com/ibrahim-biner/5G_Technology_and_Beyond_Presentation/blob/main/5G%20Teknolojisi%20Poster%20(54.9%20%C3%97%2084.1%20cm)%20(1)-1.png)
+
+
