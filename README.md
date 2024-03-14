@@ -1,2 +1,4 @@
-# 5G_Technology-_and-_Beyond-_Presentation
-5G Technology Presentation and Poster
+# 5G Technology and Beyond Presentation
+## 5G Technology Presentation and Poster
+
+### Prepared as part of the introductory course to software engineering.
